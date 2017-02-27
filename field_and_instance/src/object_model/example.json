@@ -1,0 +1,17 @@
+{
+  "User": {
+    "Id": "String(64) KEY",
+    "MyCharacter": "Character"
+  },
+  "Character": {
+    "Name": "String(64) KEY",
+    "Level": "Integer",
+    "Field": "Integer",
+    "x": "Double",
+    "y": "Double",
+    "z": "Double",
+    "ry": "Double",
+    "v": "Double",
+    "h": "Double"
+  }
+}
